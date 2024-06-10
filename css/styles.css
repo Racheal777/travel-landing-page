@@ -171,3 +171,10 @@ grid-row-gap: 10px;
   text-align: center;
   margin-top: 2rem;
  }
+
+ .home-edition{
+  text-align: center;
+  margin: auto 4rem;
+  font-size: 35px;
+  color: red;
+ }
